@@ -4,26 +4,26 @@
 This Orange workflow project analyzes car accident data to predict accident severity using machine learning. The analysis incorporates various data sources including accident data, weather conditions, and holiday information.
 
 ## Project Structure
-- [SrishtiBinwani_DE_Final.ows](../SrishtiBinwani_DE_Final.ows): Main Orange workflow file
-- [car-crashes.csv](../car-crashes.csv): Primary dataset containing accident information
-- [weather-sfcsv.csv](../weather-sfcsv.csv): Weather conditions dataset
-- [holidays.xml](../holidays.xml): Holiday information dataset
+- [SrishtiBinwani_DE_Final.ows](https://github.com/srishti-10/Car-Accident-Severity-Prediction-Analysis/blob/main/SrishtiBinwani_DE_Final.ows): Main Orange workflow file
+- [car-crashes.csv](https://github.com/srishti-10/Car-Accident-Severity-Prediction-Analysis/blob/main/car-crashes.csv): Primary dataset containing accident information
+- [weather-sfcsv.csv](https://github.com/srishti-10/Car-Accident-Severity-Prediction-Analysis/blob/main/weather-sfcsv.csv): Weather conditions dataset
+- [holidays.xml](https://github.com/srishti-10/Car-Accident-Severity-Prediction-Analysis/blob/main/holidays.xml): Holiday information dataset
 
 ## Data Sources
-1. **Car Accident Data** ([car-crashes.csv](../car-crashes.csv))
+1. **Car Accident Data** ([car-crashes.csv](https://github.com/srishti-10/Car-Accident-Severity-Prediction-Analysis/blob/main/car-crashes.csv))
    - Location data (Latitude, Longitude)
    - Road features (Bump, Crossing, Give_Way, etc.)
    - Accident severity
    - Timestamps
    - Additional metadata (Amenity, Side, State, Distance)
 
-2. **Weather Data** ([weather-sfcsv.csv](../weather-sfcsv.csv))
+2. **Weather Data** ([weather-sfcsv.csv](https://github.com/srishti-10/Car-Accident-Severity-Prediction-Analysis/blob/main/weather-sfcsv.csv))
    - Weather conditions
    - Temperature and humidity
    - Wind speed and direction
    - Visibility and precipitation
 
-3. **Holiday Data** ([holidays.xml](../holidays.xml))
+3. **Holiday Data** ([holidays.xml](https://github.com/srishti-10/Car-Accident-Severity-Prediction-Analysis/blob/main/holidays.xml))
    - Official US holidays
    - Holiday dates and descriptions
 
